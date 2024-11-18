@@ -23,12 +23,12 @@ PROD=false
 
 ```
 
-3.Ejecutar el comando ```npm install```
+3. Ejecutar el comando ```npm install```
 
-4. Instalar docker y abrirlo
+4. Instalar docker, docker desktop y abrirlo
 
-5.Levantar las bases de datos con el comando
+5. Levantar las bases de datos con el comando
 
 ``` docker compose up-d  ```
 
-6.Ejecuta ```npm run dev``` para correr la aplicación
+6. Ejecutar ```npm run dev``` para correr la aplicación
